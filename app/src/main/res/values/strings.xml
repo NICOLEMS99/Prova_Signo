@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="textview">TextView</string>
+    <string name="m_s_do_seu_aniversario">Mês do seu Aniversario</string>
+    <string name="todo">TODO</string>
+    <string name="dia_do_seu_aniversario">Dia do seu Aniversario</string>
+    <string name="signos">SIGNOS</string>
+    <string name="resultado">Resultado</string>
+</resources>
